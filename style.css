@@ -1,26 +1,22 @@
-li {
+#FOod {
     font-weight: bold;
     font-family:Arial, Helvetica, sans-serif;
     text-align: left;
-
+color: white;
 }
 
-.Lasagna {
-
-background-color: red;
-color:white;
-
+.Lasagna { background-color: red;
 
 }
 
 .Cake {
 
     background-color: purple;
-    color : white;
+    
 }
 
 .Burger{
 
-    background-color:green ;
-    color: white;
+    background-color: green ;
+    
 }
