@@ -1,0 +1,26 @@
+li {
+    font-weight: bold;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: left;
+
+}
+
+.Lasagna {
+
+background-color: red;
+color:white;
+
+
+}
+
+.Cake {
+
+    background-color: purple;
+    color : white;
+}
+
+.Burger{
+
+    background-color:green ;
+    color: white;
+}
